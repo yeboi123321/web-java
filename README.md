@@ -5,7 +5,12 @@ Tecnologias utilizadas:
 Java Maven, css, html
 
 Capturas de la interfaz:
+
+
 ![image](https://github.com/user-attachments/assets/f2befa32-85df-495e-8a77-24c30297676c)
+
+
+
 ![image](https://github.com/user-attachments/assets/87bcf949-c74d-40e9-bb72-10a5b403088d)
 
 Cómo interactuar con el sitio web:
