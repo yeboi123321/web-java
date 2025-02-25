@@ -2,7 +2,7 @@ Que hace el sitio web?
 Esta es una aplicación web basada en Java que gestiona datos de animales utilizando servlets, conexiones con mysql y un patrón DAO.
 
 Tecnologias utilizadas:
-Java Maven, css, html
+Java Maven, jsp, html
 
 Capturas de la interfaz:
 
